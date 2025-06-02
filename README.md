@@ -9,9 +9,11 @@ Animée par Rudi Bruchez, cette formation s’adresse aux développeurs, data sc
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - [Visual Studio Code](https://code.visualstudio.com/) 
+   - [Python](https://www.python.org/)
+   - [Milvus](https://milvus.io/fr)
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Installez Docker sur votre machine si ce n'est pas déjà fait.
 
 
 ### Formateur
